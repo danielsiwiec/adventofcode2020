@@ -1,3 +1,8 @@
+.vscode/
+
+## Python
+__pycache__
+
 ## Rust
 debug/
 target/
